@@ -1,0 +1,4 @@
+Credit_Score,Age,Income,Loan_Amount,Credit_History,Loan_Term,Dependents
+1,25,50000,200000,1,60,0
+0,40,30000,150000,0,36,2
+1,30,45000,180000,1,48,1
